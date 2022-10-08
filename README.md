@@ -8,4 +8,4 @@ Este site foi desenvolvido utilizando o framework Django (4.1.1) e Python (3.8.1
 
             $ python3 manage.py runserver
 
-3. Em seguida, abrir em um navegador de sua escolha (eu utilizei o Google Chrome) e digitar no campo de URL "https://localhost:8000"
+3. Em seguida, abrir em um navegador de sua escolha (eu utilizei o Google Chrome) e digitar no campo de URL "localhost:8000"
