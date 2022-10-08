@@ -2,7 +2,7 @@
 
 Este site foi desenvolvido utilizando o framework Django (4.1.1) e Python (3.8.10) no Ubuntu 20.04.
 
-Os seguintes requerimetnos são encessários para o funcionamento do site:
+Os seguintes requerimentos são necessários para o funcionamento do site:
 Django==4.1.1
 django-ckeditor==6.5.1
 django-js-asset==2.0.0
